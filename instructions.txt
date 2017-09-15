@@ -1,0 +1,10 @@
+cd ~
+cd Desktop/
+cd hansbarros.com/
+git status
+git add -A (this adds new files)
+git status
+git commit -m "PUT DESCRIPTION MESSAGE OF THE COMMIT YOUR UPDATING"
+git status
+git push origin master
+git status
